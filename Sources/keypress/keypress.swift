@@ -1,4 +1,5 @@
 import Foundation
+import SwiftUI
 
 let src = CGEventSource(stateID: CGEventSourceStateID.hidSystemState)
 let loc = CGEventTapLocation.cghidEventTap
